@@ -1,2 +1,2 @@
 git remote add origin
-  --Adds remote repository 
+  --Adds remote repository (ssh or https link)
